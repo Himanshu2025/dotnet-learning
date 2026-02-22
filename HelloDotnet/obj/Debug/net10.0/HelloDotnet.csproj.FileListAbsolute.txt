@@ -1,0 +1,15 @@
+/Users/himanshukulkarni/Developer/code/dotnet_learning_journey/HelloDotnet/bin/Debug/net10.0/HelloDotnet
+/Users/himanshukulkarni/Developer/code/dotnet_learning_journey/HelloDotnet/bin/Debug/net10.0/HelloDotnet.deps.json
+/Users/himanshukulkarni/Developer/code/dotnet_learning_journey/HelloDotnet/bin/Debug/net10.0/HelloDotnet.runtimeconfig.json
+/Users/himanshukulkarni/Developer/code/dotnet_learning_journey/HelloDotnet/bin/Debug/net10.0/HelloDotnet.dll
+/Users/himanshukulkarni/Developer/code/dotnet_learning_journey/HelloDotnet/bin/Debug/net10.0/HelloDotnet.pdb
+/Users/himanshukulkarni/Developer/code/dotnet_learning_journey/HelloDotnet/obj/Debug/net10.0/HelloDotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshukulkarni/Developer/code/dotnet_learning_journey/HelloDotnet/obj/Debug/net10.0/HelloDotnet.AssemblyInfoInputs.cache
+/Users/himanshukulkarni/Developer/code/dotnet_learning_journey/HelloDotnet/obj/Debug/net10.0/HelloDotnet.AssemblyInfo.cs
+/Users/himanshukulkarni/Developer/code/dotnet_learning_journey/HelloDotnet/obj/Debug/net10.0/HelloDotnet.csproj.CoreCompileInputs.cache
+/Users/himanshukulkarni/Developer/code/dotnet_learning_journey/HelloDotnet/obj/Debug/net10.0/HelloDotnet.sourcelink.json
+/Users/himanshukulkarni/Developer/code/dotnet_learning_journey/HelloDotnet/obj/Debug/net10.0/HelloDotnet.dll
+/Users/himanshukulkarni/Developer/code/dotnet_learning_journey/HelloDotnet/obj/Debug/net10.0/refint/HelloDotnet.dll
+/Users/himanshukulkarni/Developer/code/dotnet_learning_journey/HelloDotnet/obj/Debug/net10.0/HelloDotnet.pdb
+/Users/himanshukulkarni/Developer/code/dotnet_learning_journey/HelloDotnet/obj/Debug/net10.0/HelloDotnet.genruntimeconfig.cache
+/Users/himanshukulkarni/Developer/code/dotnet_learning_journey/HelloDotnet/obj/Debug/net10.0/ref/HelloDotnet.dll
