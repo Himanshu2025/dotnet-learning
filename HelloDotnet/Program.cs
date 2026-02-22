@@ -1,17 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-//Console.WriteLine("Hello, World!");
+Console.WriteLine("Enter you name"); 
 
+string? name = Console.ReadLine(); 
 
-// Explicit class 
-
-namespace HelloWorldExplicit
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
-    }
-}
+Console.WriteLine($"Hello, {name}");
